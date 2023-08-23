@@ -25,7 +25,7 @@ This project is a clone of Instagram built using Flutter, Firebase, and Provider
 1. Clone this repository.
 2. Install Flutter and Dart on your system.
 3. Set up a Firebase project and configure it with your app.
-4. Add your Firebase configuration details to the app (refer to `lib/firebase_config.dart`).
+4. Add your Firebase configuration details to the app
 5. Run the app using the following command:
 
 ```bash
