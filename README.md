@@ -1,7 +1,5 @@
 # Flutter Instagram Clone
 
-![Project Screenshots](screenshots.jpg)
-
 This project is a clone of Instagram built using Flutter, Firebase, and Provider. It offers a responsive experience across both mobile and web platforms.
 
 ## Features
